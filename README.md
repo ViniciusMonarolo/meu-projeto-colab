@@ -1,1 +1,1 @@
-# meu-projeto-colab
+# meu-projeto-colaborativo
